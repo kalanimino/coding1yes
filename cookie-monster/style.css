@@ -1,0 +1,69 @@
+body, html{
+	background-color:;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#nav-bar{
+	height: 100px;
+	width: 100%;
+	text-align: center;
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left:;
+}
+
+li{
+	list-style: none;
+}
+
+#top{
+	text-align: center;
+}
+
+
+#middle{
+	text-align: center
+}
+
+#bottom{
+	text-align: center;
+}
+
+.button1{
+
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 12px;
+} 
+
+h1, 
+h2,
+h3{
+	font-family: "Comic Sans MS", Times, serif;
+}
+
+div{
+	text-align: center;
+}
+
+.flex-container{
+	display: flex;
+	flex-direction: row;
+	text-align: center;
+	justify-content: space-around;
+}
+
+nav{
+	text-align: center;
+}
+
+.center{
+	text-align: center;
+}
